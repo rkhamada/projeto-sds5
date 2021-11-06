@@ -40,11 +40,7 @@ function DonutChart() {
             series={chartData.series}
             type="donut"
             height="240"
-
         />
-
-
-
     );
 }
 
